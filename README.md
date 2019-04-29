@@ -12,6 +12,18 @@ Deedy-Resume-For-Japanese
 
 目前有三种字体支持，其中 `OpenFonts` 是开源英文字体，不支持中文简历；`OpenFonts.Chinese` 是开源中文字体；`OpenFonts.Japanese` 是あおぞら明朝日文字体
 
+## 样例
+
+* [日文版](https://github.com/vinci7/Deedy-Resume-for-Japanese/blob/master/docs/resume-jp.pdf)
+* [英文版](https://github.com/vinci7/Deedy-Resume-for-Japanese/blob/master/docs/resume.pdf)
+* [中文版](https://github.com/vinci7/Deedy-Resume-for-Japanese/blob/master/docs/resume-cn.pdf)
+
+## 使用方法
+
+1. 根据需求编辑 `OpenFonts`, `OpenFonts.Chinese`和`OpenFonts.Japanese`文件夹中的`.tex`文件
+2. 根目录运行 `make` 或者 `./script`目录中运行`sh build.sh`
+4. `./docs`查看输出的pdf文件
+
 
 ## 致谢
 
